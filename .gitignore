@@ -1,0 +1,23 @@
+# PyCharm project files
+.idea/
+*.iml
+
+# Python bytecode and environment
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Common data and log files
+*.log
+*.csv
+*.json
+*.pkl
+
+# Sensitive files (adjust as needed)
+local_settings.py
+.env
