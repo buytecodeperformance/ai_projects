@@ -23,8 +23,7 @@ local_settings.py
 .env
 
 #custom file
-techcrunch_articles.zip
 
 #custom directory
 db
-articles/__MACOSX
+articles/
